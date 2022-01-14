@@ -1264,9 +1264,7 @@
 
   }
 
-  #pricing #active-tb .title {
-    background: #222222;
-  }
+
 
   #pricing #active-tb .price-value {
     color: #247499;
@@ -2048,4 +2046,20 @@
   .timelineiggs {
     width: 100%;
     padding: 40px 0;
+  }
+
+  .padding {
+    padding-top: 25px;
+  }
+  .fotocew {
+    width: 350px;
+    margin-top: 50px;
+    margin-right: 50px;
+    
+  }
+  .nonpad{
+    padding-bottom: 0px;
+  }
+  .prgrfthp{
+    padding: 13px 50px 24px;
   }
